@@ -27,11 +27,17 @@
 
 - ⚡ Fun fact **I am a great funny boy**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/rikudosama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rikudosama" height="30" width="40" /></a>
 <a href="https://twitter.com/rikudosama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rikudosama" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bonaventure lengam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bonaventure lengam" height="30" width="40" /></a>
 <a href="https://fb.com/bonaventure.lengam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bonaventure.lengam" height="30" width="40" /></a>
+<a href="https://instagram.com/le_rikudo_sama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="le_rikudo_sama" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uci1psubyk4hdbcyb4ilu6eg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uci1psubyk4hdbcyb4ilu6eg" height="30" width="40" /></a>
 </p>
 
