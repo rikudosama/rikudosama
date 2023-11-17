@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rikudo Sama</h1>
-<h3 align="center">🚀 Passionné par le monde de la technologie, je suis un développeur informatique déterminé à repousser les limites du possible. Mon parcours dans le domaine de la programmation est marqué par ma quête constante de connaissances et ma passion pour créer des solutions innovantes.</h3>
+🚀 Tech enthusiast and developer, I juggle with Python, JavaScript, Java, and more. My GitHub showcases innovative projects and open-source contributions. Advocate for collaboration and elegant code, I'm always eager to explore new technologies.
+
+🌐 Join me on this tech adventure! 🚀
+---
+
+N'hésitez pas à me faire savoir si vous avez d'autres demandes ou ajustements spécifiques.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikudosama&label=Profile%20views&color=0e75b6&style=flat" alt="rikudosama" /> </p>
 
